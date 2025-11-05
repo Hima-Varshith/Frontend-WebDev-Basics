@@ -1,7 +1,7 @@
 # Frontend Web Development Basics
 
 This repository contains beginner-level **portfolio-style web projects** developed using **HTML**, **CSS**, and **Bootstrap**.  
-Each project demonstrates the core aspects of frontend development — including webpage structure, visual styling, and responsive design using Bootstrap components.
+Each project demonstrates the core aspects of frontend development - including webpage structure, visual styling, and responsive design using Bootstrap components.
 
 ---
 
